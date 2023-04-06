@@ -1,0 +1,10 @@
+# nequip requirements
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+nequip
+numpy>=1.18.5
+
+# Logging -------------------------------------
+wandb
+
