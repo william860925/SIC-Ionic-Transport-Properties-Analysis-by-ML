@@ -9,6 +9,6 @@ In this study, we focus on the ionic transport mechanism properties of Superioni
 
 ## Result comparison with DeepMD:
 
-<img src=https://github.com/william860925/SIC-Ionic-Transport-Properties-Analysis-by-ML/blob/main/doc/comparison_figure.png width=700 p align="center">
+<img src=https://github.com/william860925/SIC-Ionic-Transport-Properties-Analysis-by-ML/blob/main/doc/comparison_figure.png width=900 p align="center">
 
 As shown in the figure above, by utilizing E(3)-equivariant graph neural network (GNN) machine learning techniques (NequIP), we were able to achieve higher accuracy with less data compared to DeepMD. Specifically, NequIP employed only 3500 data points for training, while DeepMD required 11000 data points for training.
